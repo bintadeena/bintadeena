@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bintadeena
-- 👀 I’m interested in Power Platform
-- 🌱 I’m currently learning PowerAutomate, PowerApps, PVA and Power BI
+- 👀 Software Developer
+- 🌱 Interested in Power Platform, Currently learning PowerAutomate, PowerApps, PVA and Power BI
 - 📫 You can reach me at https://github.com/bintadeena/bintadeena/
 
 <!---
